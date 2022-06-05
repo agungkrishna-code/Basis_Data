@@ -191,13 +191,3 @@ WHERE (NOT (Country = 'Germany' OR Country = 'USA'))
 --perintah diatas juga bisa menggunakan operator: IN
 SELECT * FROM Customers
 WHERE (Country NOT IN ('Germany', 'USA'));
-
-
-
-SELECT * FROM Customers ORDER BY Country;
-
-SELECT * FROM Customers ORDER BY Country DESC;
-
-SELECT * FROM Customers ORDER BY Country, CompanyName;
-
-SELECT * FROM Customers ORDER BY Country ASC, CompanyName DESC;
