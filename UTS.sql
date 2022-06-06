@@ -1,8 +1,3 @@
--- 1,
--- NAMA		: Dewa Gede Agung Krishnananda Sudewa
--- NIM		: 210030533
--- KELAS	: BE213
-
 ---------- UTS PRAKTEK BASIS DATA  ---------
 
 
