@@ -15,7 +15,7 @@ I use this server management (https://aka.ms/ssmsfullsetup)
     ],
 
 ## VScode sql setup extension  
-![This is an image](![image](on)
+![This is an image](![image](https://github.com/agungkrishna-code/Basis_Data_SQL/blob/main/img/data1.png?raw=true)
 )
 
 ![This is an image](![image](https://user-images.githubusercontent.com/87513692/172892312-5ceb13fe-6fd0-4989-9e5b-d71002ca393e.png)
